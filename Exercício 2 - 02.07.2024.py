@@ -1,0 +1,5 @@
+lista = (1, 2, 3, 4, 5, 6, 7, 8, 9)
+ordenado = sorted(lista)
+desordenado = sorted(lista, reverse = True)
+print (ordenado, desordenado)
+print ('Os seus números em ordem crescente e descrescente são', print)
